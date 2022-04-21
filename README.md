@@ -3,4 +3,4 @@ trying to use reveal.js and discard slides.com
 # link
 https://raw.githack.com/
 
-use this link and copy the html link to it
+click on this link and paste the html link to it to start presentation
