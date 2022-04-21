@@ -1,2 +1,6 @@
 # reveal_js_slides
-use reveal.js escape slides.com
+trying to use reveal.js and discard slides.com
+# link
+https://raw.githack.com/
+
+use this link and copy the html link to it
