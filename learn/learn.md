@@ -17,6 +17,11 @@ this is a slide
 --
 
 # 2
+```cpp
+int main(){
+    cout<<"hello world"<<endl;
+}
+```
 
 --
 
@@ -38,4 +43,17 @@ this is a slide
 
 --
 
-## yes
+## <font color=#008866>yes</font>
+
+---
+
+![](http://i.giphy.com/90F8aUepslB84.gif)
+
+
+
+---
+
+
+real end?
+
+![](https://i.giphy.com/media/KXgJsSeOfvSgg/giphy.gif)
