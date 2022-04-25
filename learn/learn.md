@@ -22,6 +22,9 @@ int main(){
     cout<<"hello world"<<endl;
 }
 ```
+note: cool.
+//comment out
+
 
 --
 
@@ -56,4 +59,11 @@ int main(){
 
 real end?
 
+no{.fragment .fade-right}
+
+
 ![](https://i.giphy.com/media/KXgJsSeOfvSgg/giphy.gif)
+
+--
+
+What now?
