@@ -1,6 +1,6 @@
 ---
 theme : "night"
-transition: "slide"
+transition: "convex"
 highlightTheme: "monokai"
 logoImg: "logo.png"
 slideNumber: true
